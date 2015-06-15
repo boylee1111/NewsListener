@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_color" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="设置中心"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"
+            android:textSize="23sp" />
+
+    </LinearLayout>
+	
+     <LinearLayout
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="50dp"
+         android:orientation="vertical" 
+          android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+ 
+        <com.iflytek.speech.setting.MyListView
+            android:id="@+id/setting_list_view_1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/list_default_round"
+            android:cacheColorHint="#00000000" >
+        </com.iflytek.speech.setting.MyListView>
+        
+        <com.iflytek.speech.setting.MyListView
+            android:id="@+id/setting_list_view_2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/list_default_round"
+            android:cacheColorHint="#00000000" >
+        </com.iflytek.speech.setting.MyListView>
+        
+    </LinearLayout>
+
+     <Button
+         android:id="@+id/about"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignParentBottom="true"
+         android:layout_margin="10dp"
+         android:background="@drawable/shape_back"
+         android:text="关    于"
+         android:textColor="@color/white"
+         android:textSize="22sp"
+         android:textStyle="bold" />
+
+</RelativeLayout>

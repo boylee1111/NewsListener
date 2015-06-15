@@ -1,0 +1,18 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="gray">#BDBDBD</color>
+    <color name="blue">#00BFFF</color>
+    <color name="dark">#969696</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_yellow">#C18B57</color>
+    <color name="title">#544536</color>
+    <color name="scan">#ffe7d2</color>
+    <color name="title_color">#778899</color>
+
+</resources>
