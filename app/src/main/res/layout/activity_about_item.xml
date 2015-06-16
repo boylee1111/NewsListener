@@ -17,7 +17,7 @@
             android:layout_alignParentLeft="true"
             android:layout_centerVertical="true"
             android:layout_marginLeft="10dp"
-            android:textColor="@color/black_overlay"
+            android:textColor="@color/white"
             android:textSize="18sp" />
 
         <ImageView

@@ -24,7 +24,7 @@ public class ParseXmlService {
                     hashMap = new HashMap<String, String>();  
                     break;  
                 case XmlPullParser.START_TAG:  
-                    flag = true;  
+                    flag = true;
                     String name = pullParser.getName();  
                     if ("VERSIONCODE".equalsIgnoreCase(name) && flag == true) {  
                         hashMap.put("versionCode", pullParser.nextText().trim());  

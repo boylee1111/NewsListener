@@ -16,7 +16,7 @@
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
         android:text="请先安装讯飞语音+"
-        android:textColor="#ffff00"
+        android:textColor="@color/white"
         android:textSize="22sp" />
 
  
@@ -39,7 +39,7 @@
             android:gravity="center"
             android:padding="5dp"
             android:text="取消"
-            android:textColor="#FF00DD"
+            android:textColor="@color/white"
             android:textSize="18sp" />
 
         <Button
@@ -52,7 +52,8 @@
             android:gravity="center"
             android:padding="5dp"
             android:text="确认"
-            android:textSize="18sp" />
+            android:textSize="18sp"
+            android:textColor="@color/white" />
     </LinearLayout>
 
 </LinearLayout>
