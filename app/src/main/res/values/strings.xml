@@ -20,7 +20,7 @@
     <string name="title_activity_setting">SettingActivity</string>
     <string name="title_activity_about">AboutActivity</string>
     <string name="nowversion">V1.0</string>
-    <string name="about2">sse.tongji.edu.cn, All Rights Reserved</string>
+    <string name="about2">Tongji University. All Rights Reserved.</string>
     <string name="about1">Copyright © 2015</string>
     <string name="title_activity_version_info">VersionInfoActivity</string>
     <string name="title_activity_user_helper">UserHelperActivity</string>

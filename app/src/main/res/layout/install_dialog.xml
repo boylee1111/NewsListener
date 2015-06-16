@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="35dp"
-        android:text="请先安装讯飞语音+"
+        android:text="请先安装语音助手"
         android:textColor="@color/white"
         android:textSize="22sp" />
 

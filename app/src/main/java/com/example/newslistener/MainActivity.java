@@ -29,12 +29,14 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.KeyEvent;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
@@ -173,7 +175,6 @@ public class MainActivity extends Activity {
 				{
 					mTts.stopSpeaking();
 					start_tag = 0;
-
 				}
 				mResultText.setText(null);// 清空显示内容
 				// 设置参数
