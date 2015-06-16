@@ -38,6 +38,7 @@ import com.example.newsreading.R;
 public class ApkInstaller {
 	private static final int DOWN = 1;// 用于区分正在下载
 	private static final int DOWN_FINISH = 0;// 用于区分下载完成
+	private static final String SPEECH_SERVICE_URL = "http://newslistener-newslistener.stor.sinaapp.com/SpeechService.apk";
 	private Activity mActivity;
 	private Context context;
 	private ProgressBar progressBar;
@@ -194,8 +195,7 @@ public class ApkInstaller {
 							+ "/";
 					fileSavePath = sdpath + "Download";
 					Log.i("newsreading", fileSavePath);
-					URL url = new URL(
-							"http://newsreading.duapp.com/newsreadingapk/SpeechService.apk");
+					URL url = new URL(SPEECH_SERVICE_URL);
 					// 创建连接
 					HttpURLConnection conn = (HttpURLConnection) url
 							.openConnection();

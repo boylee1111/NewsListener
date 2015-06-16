@@ -3,7 +3,7 @@
     android:id="@+id/LinearLayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/gray"
+    android:background="@color/white"
     android:orientation="vertical"
     tools:context=".VersionInfoActivity" >
 
@@ -48,7 +48,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="版本2.1"
-                    android:textAppearance="?android:attr/textAppearanceLarge" />
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView10"
@@ -57,7 +58,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    1.修复部分手机上初次运行未安装讯飞语音组件的问题"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView11"
@@ -66,7 +68,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    2.统一界面风格，以沉稳的灰色调为主，符合老年人踏实的审美观"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
             </LinearLayout>
 
             <LinearLayout
@@ -81,7 +84,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="版本2.0"
-                    android:textAppearance="?android:attr/textAppearanceLarge" />
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView10"
@@ -90,7 +94,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    1.增加手动输入查询模式"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView11"
@@ -99,7 +104,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    2.增加每日新闻头条功能"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView12"
@@ -108,7 +114,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    3.完善界面风格"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
             </LinearLayout>
 
             <LinearLayout
@@ -124,7 +131,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="版本1.01"
-                    android:textAppearance="?android:attr/textAppearanceLarge" />
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView2"
@@ -133,7 +141,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    1.进一步优化了界面"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView3"
@@ -142,7 +151,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    2.修复了1.00版本新闻搜索有误的问题"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView4"
@@ -151,7 +161,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    3.增加了用户自定义选项"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
             </LinearLayout>
 
             <LinearLayout
@@ -167,7 +178,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="版本1.00"
-                    android:textAppearance="?android:attr/textAppearanceLarge" />
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView6"
@@ -176,7 +188,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    1.提供基本的语音输入，后台查询新闻并播报"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView7"
@@ -185,7 +198,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    2.后台新闻取自新浪新闻"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/textView8"
@@ -194,7 +208,8 @@
                     android:layout_marginTop="5dp"
                     android:text="    3.语音播报基于科大讯飞语音API"
                     android:textSize="19sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:textColor="@color/white" />
             </LinearLayout>
         </LinearLayout>
     </ScrollView>

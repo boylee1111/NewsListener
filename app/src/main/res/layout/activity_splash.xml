@@ -2,18 +2,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashActivity" >
+    tools:context=".SplashActivity"
+    android:background="#ffee5450">
 
-    <ImageView
-        android:id="@+id/imageViewDot1"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:contentDescription="@string/app_name"
-        android:scaleType="fitXY"
-        android:src="@drawable/bg4" />
-    <Button
+    <Button
         android:id="@+id/connectweb"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -23,5 +15,13 @@
         android:layout_marginTop="33dp"
         android:text="点我连接网络"
         android:visibility="invisible" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:scaleType="center"
+        android:background="@drawable/splash_icon"
+        android:layout_centerInParent="true" />
 
 </RelativeLayout>

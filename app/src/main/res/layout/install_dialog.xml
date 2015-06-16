@@ -6,7 +6,8 @@
     android:layout_marginLeft="10dp"
     android:layout_marginRight="10dp"
     android:background="@color/gray"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:baselineAligned="false">
 
     <TextView
         android:id="@+id/title"
