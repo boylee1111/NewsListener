@@ -9,7 +9,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashMap;
 
-import com.example.newsreading.R;
+import com.example.newslistener.R;
 import com.iflytek.speech.setting.CustomDialog;
 
 import android.annotation.SuppressLint;

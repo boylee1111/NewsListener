@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.example.newsreading.R;
+import com.example.newslistener.R;
 import com.example.update.UpdateVersionService;
 
 import android.os.Bundle;

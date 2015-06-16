@@ -5,8 +5,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.example.newsreading.LocalValue;
-import com.example.newsreading.R;
+import com.example.newslistener.LocalValue;
+import com.example.newslistener.R;
 import com.iflytek.cloud.SpeechConstant;
 import com.iflytek.cloud.SpeechUtility;
 import android.os.Bundle;

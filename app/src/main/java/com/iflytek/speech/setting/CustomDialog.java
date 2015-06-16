@@ -1,7 +1,7 @@
 package com.iflytek.speech.setting;
 
 
-import com.example.newsreading.R;
+import com.example.newslistener.R;
 
 import android.app.Dialog;
 import android.content.Context;
