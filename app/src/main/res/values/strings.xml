@@ -25,5 +25,6 @@
     <string name="title_activity_version_info">VersionInfoActivity</string>
     <string name="title_activity_user_helper">UserHelperActivity</string>
     <string name="title_activity_splash">SplashActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9092526227073357/6396162024</string>
 
 </resources>

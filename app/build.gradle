@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.newsreading"
-        minSdkVersion 8
+        minSdkVersion 9
         targetSdkVersion 18
     }
 
@@ -19,6 +19,7 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.android.support:support-v4:20.1.0'
+    compile 'com.google.android.gms:play-services-ads:7.5.0'
     compile files('libs/Msc.jar')
 }
