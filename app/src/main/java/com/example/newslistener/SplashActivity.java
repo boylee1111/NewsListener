@@ -18,12 +18,17 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 
+import com.umeng.analytics.MobclickAgent;
+
 public class SplashActivity extends Activity {
 
 	private Button connect_web;
 	private MyDataReceiver myDataReceiver;
 	public static final String MY_ACTION = "com.example.broadcastreceiverexample.action";
 	public static final String MY_SERVICE = "com.example.broadcastreceiverexample.service";
+	private Context mContext;
+	private final String mPageName = "SplashActivity";
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -42,6 +47,7 @@ public class SplashActivity extends Activity {
 				}
 			}
 		});
+		mContext = this;
 	}
 
 	@Override
@@ -65,8 +71,17 @@ public class SplashActivity extends Activity {
 					Toast.LENGTH_LONG).show();
 			connect_web.setVisibility(View.VISIBLE);
 		}
+		MobclickAgent.onPageStart(mPageName);
+		MobclickAgent.onResume(mContext);
 	}
-	
+
+	@Override
+	protected void onPause() {
+		super.onPause();
+		MobclickAgent.onPageEnd( mPageName );
+		MobclickAgent.onPause(mContext);
+	}
+
 	private void init() {
 		
 		Intent myIntent = new Intent();

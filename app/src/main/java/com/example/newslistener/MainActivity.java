@@ -17,6 +17,7 @@ import com.iflytek.speech.setting.CustomDialog;
 import com.iflytek.speech.setting.SettingActivity;
 import com.iflytek.speech.util.ApkInstaller;
 import com.iflytek.speech.util.JsonParser;
+import com.umeng.analytics.MobclickAgent;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -40,12 +41,16 @@ import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
+	private Context mContext;
+	private final  String mPageName = "MainActivity";
 
 	@Override
 	protected void onResume() {
 		// TODO Auto-generated method stub
 
 		super.onResume();
+		MobclickAgent.onPageStart(mPageName);
+		MobclickAgent.onResume(mContext);
 	}
 
 	private ImageButton setting;// 设置
@@ -304,6 +309,14 @@ public class MainActivity extends Activity {
 		AdView mAdView = (AdView) findViewById(R.id.adView);
 		AdRequest adRequest = new AdRequest.Builder().build();
 		mAdView.loadAd(adRequest);
+        mContext = this;
+	}
+
+	@Override
+	protected void onPause() {
+		super.onPause();
+		MobclickAgent.onPageEnd( mPageName );
+		MobclickAgent.onPause(mContext);
 	}
 
 	/**
@@ -321,8 +334,9 @@ public class MainActivity extends Activity {
 		}
 	};
 
-	// 初始化监听器。语音识别
-
+	/**
+	 * 初始化监听器。语音识别
+	 */
 	private InitListener mInitListener = new InitListener() {
 
 		@Override
@@ -374,7 +388,9 @@ public class MainActivity extends Activity {
 
 	};
 
-	// 语音朗读
+	/**
+	 * 语音朗读
+	 */
 	private void read(String content_text) {
 		String text = content_text;
 		start_tag = 1;// 朗读模式

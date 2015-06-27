@@ -22,4 +22,5 @@ dependencies {
     compile 'com.android.support:support-v4:20.1.0'
     compile 'com.google.android.gms:play-services-ads:7.5.0'
     compile files('libs/Msc.jar')
+    compile files('libs/umeng-analytics-v5.5.3.jar')
 }
