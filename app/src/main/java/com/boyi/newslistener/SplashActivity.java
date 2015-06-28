@@ -48,6 +48,7 @@ public class SplashActivity extends Activity {
 			}
 		});
 		mContext = this;
+		MobclickAgent.updateOnlineConfig(mContext);
 	}
 
 	@Override
@@ -78,7 +79,7 @@ public class SplashActivity extends Activity {
 	@Override
 	protected void onPause() {
 		super.onPause();
-		MobclickAgent.onPageEnd(mPageName);
+		MobclickAgent.onPageEnd(mPageName );
 		MobclickAgent.onPause(mContext);
 	}
 
