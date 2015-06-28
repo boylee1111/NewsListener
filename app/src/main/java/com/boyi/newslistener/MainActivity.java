@@ -42,15 +42,6 @@ public class MainActivity extends Activity {
 	private Context mContext;
 	private final  String mPageName = "MainActivity";
 
-	@Override
-	protected void onResume() {
-		// TODO Auto-generated method stub
-
-		super.onResume();
-		MobclickAgent.onPageStart(mPageName);
-		MobclickAgent.onResume(mContext);
-	}
-
 	private ImageButton setting;// 设置
 	private ImageButton start;// 开始
 	private Button continue_read;// 继续播放
@@ -308,6 +299,15 @@ public class MainActivity extends Activity {
 		AdRequest adRequest = new AdRequest.Builder().build();
 		mAdView.loadAd(adRequest);
         mContext = this;
+	}
+
+	@Override
+	protected void onResume() {
+		// TODO Auto-generated method stub
+
+		super.onResume();
+		MobclickAgent.onPageStart(mPageName);
+		MobclickAgent.onResume(mContext);
 	}
 
 	@Override

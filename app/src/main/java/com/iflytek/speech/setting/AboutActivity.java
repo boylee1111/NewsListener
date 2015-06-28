@@ -7,7 +7,9 @@ import java.util.Map;
 
 import com.boyi.newslistener.R;
 import com.boyi.update.UpdateVersionService;
+import com.umeng.analytics.MobclickAgent;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
@@ -21,7 +23,8 @@ import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
 
 public class AboutActivity extends Activity {
-
+    private Context mContext;
+    private final String mPageName = "AboutActivity";
 
     private static final String UPDATEVERSIONXMLPATH = "http://newslistener-newslistener.stor.sinaapp.com/version.xml";
     private MyListView listview;
@@ -73,6 +76,21 @@ public class AboutActivity extends Activity {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
+        mContext = this;
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        MobclickAgent.onPageStart(mPageName);
+        MobclickAgent.onResume(mContext);
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        MobclickAgent.onPageEnd(mPageName);
+        MobclickAgent.onPause(mContext);
     }
 
     @Override

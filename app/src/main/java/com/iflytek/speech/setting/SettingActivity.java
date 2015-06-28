@@ -9,6 +9,8 @@ import com.boyi.newslistener.LocalValue;
 import com.boyi.newslistener.R;
 import com.iflytek.cloud.SpeechConstant;
 import com.iflytek.cloud.SpeechUtility;
+
+import android.content.Context;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -30,8 +32,11 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.view.inputmethod.EditorInfo;
 import com.iflytek.speech.util.ApkInstaller;
+import com.umeng.analytics.MobclickAgent;
 
 public class SettingActivity extends Activity {
+	private Context mContext;
+	private final String mPageName = "SettingActivity";
 
 	private MyListView listview1;
 	private MyListView listview2;
@@ -273,6 +278,21 @@ public class SettingActivity extends Activity {
 				finish();
 			}
 		});
+		mContext = this;
+	}
+
+	@Override
+	protected void onResume() {
+		super.onResume();
+		MobclickAgent.onPageStart(mPageName);
+		MobclickAgent.onResume(mContext);
+	}
+
+	@Override
+	protected void onPause() {
+		super.onPause();
+		MobclickAgent.onPageEnd(mPageName);
+		MobclickAgent.onPause(mContext);
 	}
 
 	private List<Map<String, String>> getData() {
