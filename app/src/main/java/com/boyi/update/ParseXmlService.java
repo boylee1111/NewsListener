@@ -1,4 +1,4 @@
-package com.example.update;
+package com.boyi.update;
 
 import java.io.IOException;  
 import java.io.InputStream;  

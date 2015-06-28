@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.newslistener"
+    package="com.boyi.newslistener"
     android:versionCode="5"
     android:versionName="1.21.24" >
 
@@ -9,7 +9,7 @@
         android:targetSdkVersion="18" />
 
     <application
-        android:name="com.example.newslistener.SpeechApp"
+        android:name="com.boyi.newslistener.SpeechApp"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
@@ -19,19 +19,19 @@
             android:value="@integer/google_play_services_version" />
 
         <activity
-            android:name="com.example.newslistener.MainActivity"
+            android:name="com.boyi.newslistener.MainActivity"
             android:label="@string/app_name" >
             
         </activity>
 
-        <service android:name="com.example.newslistener.BroadcastService" >
+        <service android:name="com.boyi.newslistener.BroadcastService" >
             <intent-filter>
                 <action android:name="com.example.broadcastreceiverexample.service" />
             </intent-filter>
         </service>
 
         <activity
-            android:name="com.example.newslistener.IatDemoActivity"
+            android:name="com.boyi.newslistener.IatDemoActivity"
             android:label="@string/title_activity_iat_demo" >
         </activity>
         <activity
@@ -51,7 +51,7 @@
             android:label="@string/title_activity_user_helper" >
         </activity>
         <activity
-            android:name="com.example.newslistener.SplashActivity"
+            android:name="com.boyi.newslistener.SplashActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

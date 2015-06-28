@@ -30,7 +30,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.iflytek.speech.setting.CustomDialog;
-import com.example.newslistener.R;
+import com.boyi.newslistener.R;
 
 /**
  * 弹出提示框，下载服务组件

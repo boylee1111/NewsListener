@@ -1,4 +1,4 @@
-package com.example.newslistener;
+package com.boyi.newslistener;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

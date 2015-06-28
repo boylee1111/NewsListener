@@ -1,6 +1,6 @@
 package com.iflytek.speech.setting;
 
-import com.example.newslistener.R;
+import com.boyi.newslistener.R;
 
 import android.content.Context;
 import android.util.AttributeSet;

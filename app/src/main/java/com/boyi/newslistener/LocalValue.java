@@ -1,4 +1,4 @@
-package com.example.newslistener;
+package com.boyi.newslistener;
 
 public class LocalValue {
 	public static final String SP_NAMES = "NEWS_READING";

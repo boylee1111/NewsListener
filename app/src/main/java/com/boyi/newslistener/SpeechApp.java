@@ -1,4 +1,4 @@
-package com.example.newslistener;
+package com.boyi.newslistener;
 
 import com.iflytek.cloud.SpeechUtility;
 import android.app.Application;

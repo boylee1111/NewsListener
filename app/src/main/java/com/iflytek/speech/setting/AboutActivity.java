@@ -5,8 +5,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.example.newslistener.R;
-import com.example.update.UpdateVersionService;
+import com.boyi.newslistener.R;
+import com.boyi.update.UpdateVersionService;
 
 import android.os.Bundle;
 import android.app.Activity;

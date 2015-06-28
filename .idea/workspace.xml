@@ -16,200 +16,197 @@
       </layout>
     </layouts>
   </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="35b6f583-33b1-4e18-9eec-1873c02c15a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/final/Final.key" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Boy.xml" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/404.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-11-background-png.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-%e4%bd%a0%e8%a6%81%e8%b4%9f%e5%85%a8%e9%83%a8%e7%9a%84%e8%b4%a3%e4%bb%bb-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-%e7%99%be%e5%b9%b4%e5%ad%a4%e7%8b%ac%e4%ba%ba%e7%89%a9%e5%85%b3%e7%b3%bb%e5%9b%be.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-hello-world-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-logo2.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-oux.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-01-2014-1-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-10-%e5%a6%b9%e5%a6%b9%e5%8a%a0%e6%b2%b9-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-10-%e5%bf%99%e9%87%8c%e5%81%b7%e9%97%b2.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-10-%e8%87%aa%e5%b7%b1%e5%b0%9d%e8%af%95chrome%e5%88%9b%e6%84%8f%e5%b9%bf%e5%91%8a-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-12-2014-1-1_illustration.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-03-02-no-harder-just-hard.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-03-11-life-is-just-a-joke-why-so-serious.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-1-request-a-certificate-from-a-certificate-authority.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-10-download-ios-certificate.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-11-ios-certificates-provisioning-profiles.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-12-ios-provisioning-profiles.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-2-certificate-information.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-3-export-private-key.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-4-ios-dev-center.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-5-certificate-identifiers-profiles.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-6-ios-app-ids.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-7-add-ios-app-ids.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-8-pushchat-settings.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-9-settings-ios-app-ids.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-10-04-swap-nodes-in-pairs.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/post_footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/social_links.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_layouts/center.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_layouts/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-%e9%a6%96%e9%a1%b5.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-25.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-33.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-34.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-39.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-首页.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-13-54.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-13-61.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-13-categories-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-04-29-kruskal-networking.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-05-04-一个关于fork的问题.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-06-01-忙里偷闲.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-08-08-去，归.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-09-29-自己尝试Chrome创意广告.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-11-29-悲剧，数据全没了.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-12-13-你要负全部的责任.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-01-01-2014-1-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-01-09-pitfall-of-gcdasyncsokcet.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-03-02-no-harder-just-hard.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-03-11-life-is-just-a-joke-why-so-serious.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-03-14-王子与公主.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-03-15-xpath-query-returns-no-result-using-gdataxml.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-05-07-生生不息.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-06-14-wpf-interface-inotifypropertychanged.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-06-15-一个多月的新生活.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-08-12-func-and-expression.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-08-12-make-me-a-german.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-09-single-number-maximum-depth-of-binary-tree.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-12-same-tree-reverse-integer.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-17-climbing-stairs-maximum-subarray.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-18-linked-list-cycle-remove-duplicates-from-sorted-list.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-23-merge-two-sorted-lists-merge-sorted-array.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-23-search-insert-position-remove-element.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-24-remove-duplicates-from-sorted-array-symmetric-tree.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-03-unique-binary-search-trees-populating-next-right-pointers-in-each-node.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-04-swap-nodes-in-pairs-sort-colors.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-05-unique-paths-pascals-triangle.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-12-best-time-to-buy-and-sell-stock-best-time-to-buy-and-sell-stock-ii.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-13-binary-tree-level-order-traversal-binary-tree-level-order-traversal-ii.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-22-leetcode-gray-code.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-08-leetcode-insertion-sort-list.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-08-leetcode-reorder-list.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-leetcode-climbing-stairs.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-leetcode-decode-ways.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-leetcode-partition-list.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-leetcode-rotate-list.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-spiral-matrix-spiral-matrix-ii.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-candy-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-evaluate-reverse-polish-notation.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-restore-ip-addresses.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-reverse-linked-list-ii.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-reverse-nodes-in-k-group.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_sass/_basscss.scss" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_sass/_main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_sass/_solarized-dark.scss" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_sass/_solarized-light.scss" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/about/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/assets/2014-1-1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/categories/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/contact/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/css/pixyll.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2013/04/29/kruskal-networking/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2013/05/04/一个关于fork的问题/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2013/09/29/自己尝试Chrome创意广告/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2013/11/29/悲剧，数据全没了/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/01/09/pitfall-of-gcdasyncsokcet/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/03/15/xpath-query-returns-no-result-using-gdataxml/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/06/14/wpf-interface-inotifypropertychanged/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/08/12/func-and-expression/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/09/single-number-maximum-depth-of-binary-tree/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/12/same-tree-reverse-integer/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/17/climbing-stairs-maximum-subarray/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/18/linked-list-cycle-remove-duplicates-from-sorted-list/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/23/merge-two-sorted-lists-merge-sorted-array/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/23/search-insert-position-remove-element/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/24/remove-duplicates-from-sorted-array-symmetric-tree/index.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document/final/Final.key" />
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/03/unique-binary-search-trees-populating-next-right-pointers-in-each-node/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/04/swap-nodes-in-pairs-sort-colors/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/05/unique-paths-pascals-triangle/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/12/best-time-to-buy-and-sell-stock-best-time-to-buy-and-sell-stock-ii/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/13/binary-tree-level-order-traversal-binary-tree-level-order-traversal-ii/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/22/leetcode-gray-code/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/08/leetcode-insertion-sort-list/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/08/leetcode-reorder-list/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/leetcode-climbing-stairs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/leetcode-decode-ways/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/leetcode-partition-list/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/leetcode-rotate-list/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/spiral-matrix-spiral-matrix-ii/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-candy-2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-evaluate-reverse-polish-notation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-restore-ip-addresses/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-reverse-linked-list-ii/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-reverse-nodes-in-k-group/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/images/me.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/javascripts/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2013/06/01/忙里偷闲/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2013/12/13/你要负全部的责任/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2014/03/11/life-is-just-a-joke-why-so-serious/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2014/03/14/王子与公主/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2014/06/15/一个多月的新生活/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-05-04-一个关于fork的问题.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-leetcode-climbing-stairs.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/06/14/wpf-interface-inotifypropertychanged/index.html" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/on the way/2013/08/08/去，归/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/on the way/2014/01/01/2014-1-1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/on the way/2014/03/02/no-harder-just-hard/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/on the way/2014/05/07/生生不息/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/page2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/page3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/page4/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/page5/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/params.json" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/stylesheets/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/stylesheets/pygment_trac.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/stylesheets/stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/about.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/assets/2014-1-1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/css/pixyll.scss" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/images/me.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/javascripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-03-unique-binary-search-trees-populating-next-right-pointers-in-each-node.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_sass/_solarized-light.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/leetcode-rotate-list/index.html" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/params.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-%e4%bd%a0%e8%a6%81%e8%b4%9f%e5%85%a8%e9%83%a8%e7%9a%84%e8%b4%a3%e4%bb%bb-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-17-climbing-stairs-maximum-subarray.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-03-02-no-harder-just-hard.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-12-2014-1-1_illustration.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/feed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/12/same-tree-reverse-integer/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/08/leetcode-reorder-list/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/params.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/on the way/2014/05/07/生生不息/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-09-single-number-maximum-depth-of-binary-tree.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-09-29-自己尝试Chrome创意广告.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/images/me.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/css/pixyll.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/12/best-time-to-buy-and-sell-stock-best-time-to-buy-and-sell-stock-ii/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-18-linked-list-cycle-remove-duplicates-from-sorted-list.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2013/06/01/忙里偷闲/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-10-%e8%87%aa%e5%b7%b1%e5%b0%9d%e8%af%95chrome%e5%88%9b%e6%84%8f%e5%b9%bf%e5%91%8a-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/categories/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-05-unique-paths-pascals-triangle.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2013/12/13/你要负全部的责任/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/javascripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-08-leetcode-insertion-sort-list.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-evaluate-reverse-polish-notation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-reverse-nodes-in-k-group.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-10-download-ios-certificate.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-24-remove-duplicates-from-sorted-array-symmetric-tree.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-13-61.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/leetcode-partition-list/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-reverse-linked-list-ii/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/stylesheets/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-04-swap-nodes-in-pairs-sort-colors.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/01/09/pitfall-of-gcdasyncsokcet/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/23/merge-two-sorted-lists-merge-sorted-array/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-01-2014-1-1.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-candy-2.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-06-15-一个多月的新生活.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/08/leetcode-insertion-sort-list/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-39.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-03-14-王子与公主.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-11-background-png.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/javascripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-6-ios-app-ids.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/spiral-matrix-spiral-matrix-ii/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/on the way/2014/01/01/2014-1-1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_layouts/center.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-03-02-no-harder-just-hard.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-%e7%99%be%e5%b9%b4%e5%ad%a4%e7%8b%ac%e4%ba%ba%e7%89%a9%e5%85%b3%e7%b3%bb%e5%9b%be.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-3-export-private-key.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/23/search-insert-position-remove-element/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-8-pushchat-settings.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-08-leetcode-reorder-list.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_layouts/post.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-首页.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-03-15-xpath-query-returns-no-result-using-gdataxml.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_sass/_solarized-dark.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-4-ios-dev-center.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2013/05/04/一个关于fork的问题/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/css/pixyll.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/08/12/func-and-expression/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-9-settings-ios-app-ids.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/leetcode-climbing-stairs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/assets/2014-1-1.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-evaluate-reverse-polish-notation.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/about.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-08-12-func-and-expression.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-leetcode-partition-list.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-06-14-wpf-interface-inotifypropertychanged.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Test/Test.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/17/climbing-stairs-maximum-subarray/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/feed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2013/04/29/kruskal-networking/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-10-%e5%a6%b9%e5%a6%b9%e5%8a%a0%e6%b2%b9-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/09/single-number-maximum-depth-of-binary-tree/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2014/06/15/一个多月的新生活/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-34.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-08-08-去，归.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-12-best-time-to-buy-and-sell-stock-best-time-to-buy-and-sell-stock-ii.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/categories.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-spiral-matrix-spiral-matrix-ii.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-03-11-life-is-just-a-joke-why-so-serious.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-reverse-nodes-in-k-group/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-23-merge-two-sorted-lists-merge-sorted-array.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-10-04-swap-nodes-in-pairs.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-oux.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/04/swap-nodes-in-pairs-sort-colors/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-leetcode-rotate-list.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-08-12-make-me-a-german.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-05-07-生生不息.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/stylesheets/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2014/03/11/life-is-just-a-joke-why-so-serious/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-candy-2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-33.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/stylesheets/pygment_trac.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/page5/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/13/leetcode-decode-ways/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-12-13-你要负全部的责任.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2013/09/29/自己尝试Chrome创意广告/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-01-01-2014-1-1.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-11-ios-certificates-provisioning-profiles.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/on the way/2014/03/02/no-harder-just-hard/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-01-09-pitfall-of-gcdasyncsokcet.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-7-add-ios-app-ids.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-13-leetcode-decode-ways.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-hello-world-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-%e9%a6%96%e9%a1%b5.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/post_footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/miscellaneous/2014/03/14/王子与公主/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/about/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-01-10-%e5%bf%99%e9%87%8c%e5%81%b7%e9%97%b2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/stylesheets/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-22-leetcode-gray-code.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/03/15/xpath-query-returns-no-result-using-gdataxml/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/contact/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2013/11/29/悲剧，数据全没了/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-10-13-binary-tree-level-order-traversal-binary-tree-level-order-traversal-ii.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_layouts/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/05/unique-paths-pascals-triangle/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/404.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-04-29-kruskal-networking.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-11-29-悲剧，数据全没了.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/18/linked-list-cycle-remove-duplicates-from-sorted-list/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/images/me.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/11/14/leetcode-restore-ip-addresses/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/page4/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-23-search-insert-position-remove-element.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-2-certificate-information.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/22/leetcode-gray-code/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_sass/_basscss.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/09/24/remove-duplicates-from-sorted-array-symmetric-tree/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-1-request-a-certificate-from-a-certificate-authority.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-12-ios-provisioning-profiles.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-09-12-same-tree-reverse-integer.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-reverse-linked-list-ii.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-13-categories-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/page3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_sass/_main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-03-11-life-is-just-a-joke-why-so-serious.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2014-11-14-leetcode-restore-ip-addresses.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2013-12-13-logo2.html" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/stylesheets/print.css" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/stylesheets/pygment_trac.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/stylesheets/stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Test/Test.xcodeproj/project.pbxproj" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/document/startup/Startup.key" afterPath="$PROJECT_DIR$/document/startup/Startup.key" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/newslistener/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/newslistener/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/newslistener/SplashActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/newslistener/SplashActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_includes/social_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-11-25.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_posts/2013-06-01-忙里偷闲.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_nav_menu_items/2013-12-13-54.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/assets/2014-1-1.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_attachments/2014-04-14-5-certificate-identifiers-profiles.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/_site/development/2014/10/13/binary-tree-level-order-traversal-binary-tree-level-order-traversal-ii/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/SplashActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/SplashActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/document/startup/Startup.key" afterPath="$PROJECT_DIR$/document/startup/Startup.key" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NewsReading.iws" />
@@ -246,45 +243,28 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="65" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="65" />
-              <folding>
-                <element signature="e#479#497#0" expanded="true" />
-                <element signature="e#632#671#0" expanded="true" />
-                <element signature="e#785#803#0" expanded="true" />
-                <element signature="e#1192#1225#0" expanded="true" />
-                <element signature="e#1362#1394#0" expanded="true" />
-                <element signature="e#1529#1559#0" expanded="true" />
-                <element signature="e#1700#1737#0" expanded="true" />
-                <element signature="e#1877#1913#0" expanded="true" />
-                <element signature="e#2047#2065#0" expanded="true" />
-              </folding>
+              <caret line="53" column="62" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="62" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/newslistener/MainActivity.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34168565">
-              <caret line="281" column="38" selection-start-line="281" selection-start-column="38" selection-end-line="281" selection-end-column="38" />
-              <folding>
-                <element signature="e#5831#5861#0" expanded="true" />
-                <element signature="e#8840#9001#0" expanded="true" />
-                <element signature="e#9000#9001#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.41899443">
+              <caret line="320" column="17" selection-start-line="320" selection-start-column="17" selection-end-line="320" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SplashActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/newslistener/SplashActivity.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/SplashActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.2">
+            <state vertical-scroll-proportion="0.0">
               <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-              <folding>
-                <element signature="e#1261#1550#0" expanded="true" />
-                <element signature="e#1549#1550#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1689,6 +1669,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/iflytek/speech/setting/AboutActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/newslistener/SplashActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/newslistener/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1731,8 +1712,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1949,7 +1928,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
+              <option name="myItemId" value="boyi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1987,7 +1966,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
+              <option name="myItemId" value="boyi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2015,8 +1994,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2274,7 +2255,6 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2285,7 +2265,7 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.505891" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37231183" sideWeight="0.49410897" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37331536" sideWeight="0.49410897" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2297,6 +2277,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -2357,102 +2338,102 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about_item.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about_item.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_iat_demo.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_dialog.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/downloaddialog.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/install_dialog.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/install_dialog.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_helper.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_helper.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iflytek/speech/setting/CustomDialog.java">
@@ -2553,7 +2534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/update/UpdateVersionService.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/boyi/update/UpdateVersionService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="170" column="23" selection-start-line="170" selection-start-column="12" selection-end-line="170" selection-end-column="23" />
@@ -2561,25 +2542,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_version_info.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_setting_item.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/dictionaries/Boy.xml">
@@ -2646,14 +2627,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.137931">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iflytek/speech/setting/VersionInfoActivity.java">
@@ -2688,7 +2669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/newslistener/BroadcastService.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/BroadcastService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16759777">
           <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
@@ -2696,7 +2677,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/newslistener/LocalValue.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/LocalValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12569833">
           <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
@@ -2704,7 +2685,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/newslistener/SpeechApp.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/SpeechApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31424582">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -2715,41 +2696,24 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="65" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="65" />
-          <folding>
-            <element signature="e#479#497#0" expanded="true" />
-            <element signature="e#632#671#0" expanded="true" />
-            <element signature="e#785#803#0" expanded="true" />
-            <element signature="e#1192#1225#0" expanded="true" />
-            <element signature="e#1362#1394#0" expanded="true" />
-            <element signature="e#1529#1559#0" expanded="true" />
-            <element signature="e#1700#1737#0" expanded="true" />
-            <element signature="e#1877#1913#0" expanded="true" />
-            <element signature="e#2047#2065#0" expanded="true" />
-          </folding>
+          <caret line="53" column="62" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/newslistener/SplashActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/SplashActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.2">
+        <state vertical-scroll-proportion="0.0">
           <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-          <folding>
-            <element signature="e#1261#1550#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/newslistener/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34168565">
-          <caret line="281" column="38" selection-start-line="281" selection-start-column="38" selection-end-line="281" selection-end-column="38" />
-          <folding>
-            <element signature="e#5831#5861#0" expanded="true" />
-            <element signature="e#8840#9001#0" expanded="true" />
-            <element signature="e#9000#9001#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.41899443">
+          <caret line="320" column="17" selection-start-line="320" selection-start-column="17" selection-end-line="320" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>

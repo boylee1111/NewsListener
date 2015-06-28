@@ -1,4 +1,4 @@
-package com.example.update;
+package com.boyi.update;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -9,7 +9,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashMap;
 
-import com.example.newslistener.R;
+import com.boyi.newslistener.R;
 import com.iflytek.speech.setting.CustomDialog;
 
 import android.annotation.SuppressLint;
