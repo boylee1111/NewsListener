@@ -19,8 +19,8 @@ import android.util.Log;
 
 public class BroadcastService extends Service {
 
-	public static final String MY_ACTION = "com.example.broadcastreceiverexample.action";
-	public static final String MY_SERVICE = "com.example.broadcastreceiverexample.service";
+	public static final String MY_ACTION = "com.boyi.broadcastreceiver.action";
+	public static final String MY_SERVICE = "com.boyi.broadcastreceiver.service";
     public static final String SAE_URL = "http://newslistener.sinaapp.com";
 	private MyDataReceiver myDataReceiver;
 	private String mysearch = "";

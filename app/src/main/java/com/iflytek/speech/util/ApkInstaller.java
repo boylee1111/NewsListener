@@ -194,7 +194,7 @@ public class ApkInstaller {
 					String sdpath = Environment.getExternalStorageDirectory()
 							+ "/";
 					fileSavePath = sdpath + "Download";
-					Log.i("newsreading", fileSavePath);
+					Log.i("newslistener", fileSavePath);
 					URL url = new URL(SPEECH_SERVICE_URL);
 					// 创建连接
 					HttpURLConnection conn = (HttpURLConnection) url

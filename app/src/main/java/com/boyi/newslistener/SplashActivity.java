@@ -24,8 +24,8 @@ public class SplashActivity extends Activity {
 
 	private Button connect_web;
 	private MyDataReceiver myDataReceiver;
-	public static final String MY_ACTION = "com.example.broadcastreceiverexample.action";
-	public static final String MY_SERVICE = "com.example.broadcastreceiverexample.service";
+	public static final String MY_ACTION = "com.boyi.broadcastreceiver.action";
+	public static final String MY_SERVICE = "com.boyi.broadcastreceiver.service";
 	private Context mContext;
 	private final String mPageName = "SplashActivity";
 

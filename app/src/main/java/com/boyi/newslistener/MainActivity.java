@@ -71,8 +71,8 @@ public class MainActivity extends Activity {
 	private int mode = AUTO_MODE;//
 	private Button mode_choosed;
 
-	public static final String MY_ACTION = "com.example.broadcastreceiverexample.action";
-	public static final String MY_SERVICE = "com.example.broadcastreceiverexample.service";
+	public static final String MY_ACTION = "com.boyi.broadcastreceiver.action";
+	public static final String MY_SERVICE = "com.boyi.broadcastreceiver.service";
 
 	@SuppressLint({ "ShowToast", "CutPasteId" })
 	@Override
@@ -339,7 +339,7 @@ public class MainActivity extends Activity {
 
 		@Override
 		public void onInit(int code) {
-			Log.i("newsreading", Integer.toString(code));
+			Log.i("newslistener", Integer.toString(code));
 			if (code == ErrorCode.SUCCESS) {
 				/*
 				 * findViewById(R.id.pause).setEnabled(false);

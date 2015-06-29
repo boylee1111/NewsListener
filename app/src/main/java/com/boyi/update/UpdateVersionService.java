@@ -232,7 +232,7 @@ public class UpdateVersionService {
 		try {
 			// 获取软件版本号，对应AndroidManifest.xml下android:versionCode
 			versionCode = context.getPackageManager().getPackageInfo(
-					"com.example.newsreading", 0).versionCode;
+					"com.boyi.newslistener", 0).versionCode;
 			/*
 			 * Toast.makeText(context, "当前版本是: " + versionCode,
 			 * Toast.LENGTH_SHORT) .show();
