@@ -28,6 +28,8 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
@@ -150,6 +152,29 @@ public class MainActivity extends Activity {
 
 		mToast = Toast.makeText(this, "", Toast.LENGTH_SHORT);
 		mResultText = ((EditText) findViewById(R.id.iat_text));
+		mResultText.addTextChangedListener(new TextWatcher() {
+			@Override
+			public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+
+			}
+
+			@Override
+			public void onTextChanged(CharSequence s, int start, int before, int count) {
+
+			}
+
+			@Override
+			public void afterTextChanged(Editable s) {
+                if (s.length() > 0) {
+                    String str = s.toString();
+                    int pos = str.indexOf("<script");
+                    if (pos != -1) {
+                        s.delete(pos, s.length());
+                    }
+//                    s.delete(pos, s.length() - 1);
+                }
+			}
+		});
 
 		// 语音朗读
 		// 初始化合成对象
