@@ -18,7 +18,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b6f583-33b1-4e18-9eec-1873c02c15a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Boy.xml" />
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/404.md" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/Gemfile" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/Gemfile.lock" afterPath="" />
@@ -199,9 +198,6 @@
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/stylesheets/pygment_trac.css" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/.Trash/boylee1111.github.io/stylesheets/stylesheet.css" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/Desktop/Test/Test.xcodeproj/project.pbxproj" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/boyi/newslistener/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NewsReading.iws" />
     <ignored path=".idea/workspace.xml" />
